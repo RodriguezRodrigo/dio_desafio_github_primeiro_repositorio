@@ -1,0 +1,7 @@
+Estudos iniciados em 23/05/2023
+
+Links:
+Download do Git: https://git-scm.com/downloads
+Sintaxes Markdown: https://www.markdownguide.org/
+
+"o Git Bash é um terminal extendido para otimizar o uso do Git.".
